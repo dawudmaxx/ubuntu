@@ -1,0 +1,1 @@
+docker run --mount source=D:\DEV\04_Entwirkler,target=/workspace,type=bind -it ubuntu:dev /bin/bash
